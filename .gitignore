@@ -30,3 +30,4 @@ obj/
 .venv/
 __pycache__/
 *.pyc
+azure-function/app.zip
