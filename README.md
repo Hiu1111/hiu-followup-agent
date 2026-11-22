@@ -1,6 +1,5 @@
 # Follow-up Agent (Hiu Cheung)
 
-Adapted from Gursimar Gill's founder-outreach-agent (github.com/simarz/founder-outreach-agent).
 Set up for Hiu: digests go to **hiu3648@gmail.com**, the Gmail account he sends outreach from.
 
 ## How it fits with `hiu-outreach`
